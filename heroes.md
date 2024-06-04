@@ -9,3 +9,4 @@
 * Volcán Negro
 * Harley
 * Flash
+* Black Panter
